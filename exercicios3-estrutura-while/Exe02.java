@@ -30,7 +30,7 @@ public class Exe02 {
 			}
 			x = sc.nextInt();
 			y = sc.nextInt();
-		}
+		} 
 	}
 }
 
