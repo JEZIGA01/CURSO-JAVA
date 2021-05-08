@@ -1,7 +1,16 @@
-# CURSO-JAVA
-📌 EXERCICIOS-JAVA RESOLVIDOS  ✔️Java &amp; POO <br>
+# <p><img src="https://emoji.gg/assets/emoji/8299_Loading.gif" alt="Illustration" width=50px height=50px /> CURSO-JAVA<p>
 
 
-<p><img src="https://emoji.gg/assets/emoji/8299_Loading.gif" alt="Illustration" width=50px height=50px />MySQL &amp; MongoDB /UML / JDBC / JavaFX  / Spring Boot / JPA / Hibernate <p>
+📌 EXERCICIOS-JAVA RESOLVIDOS  
+
+✔️Java &amp; POO <br>
+
+  MySQL &amp; MongoDB<br>
+
+  UML / JDBC <br>
+
+  JavaFX  / Spring Boot <br>
+
+  JPA / Hibernate 
 
 
