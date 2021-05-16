@@ -7,7 +7,7 @@
 
   MySQL &amp; MongoDB<br>
 
-  UML / JDBC <br>
+   JDBC <br>
 
   JavaFX  / Spring Boot <br>
 
