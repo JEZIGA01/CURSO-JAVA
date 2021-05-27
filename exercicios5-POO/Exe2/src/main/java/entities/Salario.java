@@ -29,7 +29,7 @@ public class Salario {
     
     public String toString() {
         
-        return "Nome: "+nome + ", $ "+ String.format("%.2f",SalarioLiquido());
+        return "Nome: "+nome + ", $ "+ String.format("%.2f",salarioLiquido());
     
     }
 }
