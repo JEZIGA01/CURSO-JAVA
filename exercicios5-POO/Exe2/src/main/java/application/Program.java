@@ -38,7 +38,7 @@ public class Program {
         
              System.out.println("Acrescente a porcentagem: ");
              double porcentagem  = sc.nextDouble();
-         salario.Acrescimo(porcentagem);
+         salario.acrescimo(porcentagem);
            
            System.out.println();
            System.out.println(salario);
