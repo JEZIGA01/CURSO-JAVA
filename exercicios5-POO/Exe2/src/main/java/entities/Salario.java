@@ -15,14 +15,14 @@ public class Salario {
     public String nome;
    
 
-    public double SalarioLiquido(){
+    public double salarioLiquido(){
         return bruto - taxa;
     }
     
     
     
     
-    public void Acrescimo(double porcentagem){
+    public void acrescimo(double porcentagem){
     bruto += bruto * porcentagem /100;
     
     }
