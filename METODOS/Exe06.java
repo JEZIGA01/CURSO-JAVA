@@ -5,17 +5,22 @@ public class Exe06 {
 
         Scanner sc = new Scanner(System.in);
 
-        double num = 0;
-        System.out.println("Digite um numero double : ");
-        num = sc.nextDouble();
+        int num,num2;
+        System.out.println("Digite um numero inteiro: ");
+        num = sc.nextInt();
+        System.out.println("Digite um numero inteiro: ");
+        num2 = sc.nextInt();
 
-        System.out.println(isPositivo(num)? " positivo ": " negativo");
+        System.out.println(" o maior é " + Verificar(num,num2));
 
     }
 
-    static boolean isPositivo(double x) {
+    static int Verificar(int x , int y){
 
-        return x >= 0 ;
-
+        if (x > y){
+            return x;
+        }else{
+            return y;
+        }
     }
 }
