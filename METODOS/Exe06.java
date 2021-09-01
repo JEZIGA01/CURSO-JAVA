@@ -23,4 +23,4 @@ public class Exe06 {
             return y;
         }
     }
-}
+} 
