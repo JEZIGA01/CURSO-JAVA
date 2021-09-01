@@ -20,6 +20,6 @@ public class Exe09 {
         return Math.min(x,y);
 
     }
-}
+} 
 
 
