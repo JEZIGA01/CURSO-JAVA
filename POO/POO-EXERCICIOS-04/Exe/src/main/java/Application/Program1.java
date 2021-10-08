@@ -21,7 +21,7 @@ public class Program1 {
        produto.setEstado("desligado");
        
 
-       System.out.println("Modelo atualizado: "+produto.getModelo());
+       System.out.println(" Modelo atualizado: "+produto.getModelo());
        
        System.out.println(" Marca atualizada: "+produto.getMarca());
        
