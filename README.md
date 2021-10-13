@@ -1,4 +1,4 @@
-# <p><img src="https://emoji.gg/assets/emoji/8299_Loading.gif" alt="Illustration" width=50px height=50px /> JAVA<p>
+# <p> JAVA<p>
 
 
 📌 EXERCICIOS-JAVA RESOLVIDOS  
