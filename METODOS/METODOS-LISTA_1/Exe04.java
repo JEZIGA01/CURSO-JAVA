@@ -26,3 +26,4 @@ public class Exe04 {
         return  Math.pow(b,2) - (4*a*c);
     }
 }
+ 
