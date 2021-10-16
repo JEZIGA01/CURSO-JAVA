@@ -21,4 +21,4 @@ public class Exe02 {
         return (x == 0);
 
     }
-}
+} 
